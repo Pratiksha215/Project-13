@@ -6,7 +6,6 @@
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--13-lightgrey)
 
-![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
 ## Project 13 [Live Link](https://live-proj-13.netlify.app)
 
