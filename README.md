@@ -1,24 +1,25 @@
-# Assignment 1
 
-![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
-![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
+# SASS Landing page
 
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--13-lightgrey)
+## Concepts and Learnings
+
+-   CSS variables
+
+## Landing Page Snapshot
+![Desktop](./screenshots/13.png)
 
 
-## Project 13 [Live Link](https://live-proj-13.netlify.app)
 
--   Skills Gained in this project
-    -   Learned to create and use css variables in this project.
-    -   Learned to create svg patterns in adobe xd.
+## Live
 
----
+Please check the Live Demo of the Designed Landing Page using the Below Link:-)
+
+![lIVE-dEMO](https://img.shields.io/badge/Live_Demo-<COLOR>)
+
+[Live-Demo](https://sass-landing-pg.netlify.app)
 
 ## Time taken to finish this project
 
--   1.5 hour taken to complete it.
+⏰-   1 hour taken to complete it.
 
-#### Screenshot
-
-![Desktop](./screenshots/project-13.png)
+## Designed By Patil Pratiksha
