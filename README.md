@@ -6,7 +6,7 @@
 -   CSS variables
 
 ## Landing Page Snapshot
-![Desktop](./screenshots/13.png)
+![Desktop](./screenshots/project-13.png)
 
 
 
